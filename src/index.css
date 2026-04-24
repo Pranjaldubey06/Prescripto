@@ -10,6 +10,6 @@
   @apply block
 }
 
-::_webkit-scrollbar{
+::-webkit-scrollbar{
   @apply hidden
 }
