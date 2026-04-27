@@ -134,7 +134,7 @@ const Doctors = () => {
             >
               {/* Image */}
               <img
-                className="bg-blue-50 w-full h-48 object-cover"
+                className="bg-blue-50 w-full h-64 bject-cover"
                 src={item.image}
                 alt=""
               />
